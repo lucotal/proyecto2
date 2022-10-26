@@ -1,3 +1,6 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 /* movimiento de tarjetas pag productos*/
 #lu{
     display: flex;
@@ -142,6 +145,26 @@ video{
     color: aliceblue;
     font-size: x-large;
 
+}
+.h1index{
+    font-size: xx-large;
+    color: #fff;    
+    text-align: center;
+    animation: efecto 1.2s infinite; 
+}
+.h2index{
+    font-size:x-large;
+    color: #fff;    
+    text-align: center;
+}
+.pnosotros{
+    text-align: justify;
+    font-size: medium;
+    color: aliceblue;
+    margin: 25px;
+}
+.colortarjnos{
+    background-color: blanchedalmond;
 }
 
 
